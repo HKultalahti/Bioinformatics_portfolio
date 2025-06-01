@@ -1,5 +1,7 @@
 # Bioinformatics_portfolio
-Welcome to my bioinformatics portfolio! I’m a Master of Science in Genetics and Molecular Biology (University of Oulu), specialized in bioinformatics and virology. This repository contais pieces of my bioinformatic master's thesis "Muurahaisten RNA-viruskirjon kartoittaminen" (Mapping of the ant RNA virome) that demonstrate my skills in data analysis, scripting, and biological interpretation. My thesis is not publically available but can be read by request.
+Welcome to my bioinformatics portfolio! 
+
+I’m a Master of Science in Genetics and Molecular Biology (University of Oulu), specialized in bioinformatics and virology. This repository contais pieces of my bioinformatic master's thesis "Muurahaisten RNA-viruskirjon kartoittaminen" (Mapping of the ant RNA virome) that demonstrate my skills in data analysis, scripting, and biological interpretation. My thesis is not publically available but can be read by request.
 
 ## 🔬 Areas of expertise
 - *De novo transcriptome analysis from RNA-seq data*
@@ -29,7 +31,8 @@ Welcome to my bioinformatics portfolio! I’m a Master of Science in Genetics an
 |--------|-------------|------------|
 | [Virus discovery from RNAseq host data] (LINK) | Using Lazypipe to discover known and novel RNA viruses from ant RNAseq data | Lazypipe, CAP3, NCBI ORF Finder, BLAST, Rstudio |
 |[Unix for beginners: commands and tips] (LINK) | A guide for beginner unix (Puhti supercomputer) users made by me and Elisa Karonen |
-| **More coming soon**
+
+**More coming soon**
 
 ## 🧠 About me
 
