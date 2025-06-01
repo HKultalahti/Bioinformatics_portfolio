@@ -29,10 +29,10 @@ I’m a Master of Science in Genetics and Molecular Biology (University of Oulu)
 
 | Project | Description | Tools Used |
 |--------|-------------|------------|
-| [Virus discovery from RNAseq host data] (LINK) | Using Lazypipe to discover known and novel RNA viruses from ant RNAseq data | Lazypipe, CAP3, NCBI ORF Finder, BLAST, Rstudio |
-|[Unix for beginners: commands and tips] (LINK) | A guide for beginner unix (Puhti supercomputer) users made by me and Elisa Karonen |
+| Virus discovery from RNAseq host data (link coming soon) | Using Lazypipe to discover known and novel RNA viruses from ant RNAseq data | Lazypipe, CAP3, NCBI ORF Finder, BLAST, Rstudio |
+|Unix for beginners: commands and tips (link coming soon) | A guide for beginner unix (Puhti supercomputer) users made by me and Elisa Karonen |
 
-**More coming soon**
+**NEW PROJECTS WITH THE TOPICS OF MANHATTAN PLOTS AND GWAS COMING SOON**
 
 ## 🧠 About me
 
