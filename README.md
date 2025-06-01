@@ -42,4 +42,5 @@ In addition to my thesis, I completed my master's degree internship in Seppo Vai
 
 I am currently actively seeking opportunities in bioinformatics, computational biology, or related science data analysis roles. I'm passionate about applying computational tools to solve biological questions and continuously developing my skills in programming, data science, and genomics.
 
-Feel free to contact me via [LinkedIn](www.linkedin.com/in/henna-kultalahti) or [email](henna.kultalahti@hotmail.com)
+Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/henna-kultalahti) or [email](mailto:henna.kultalahti@hotmail.com)
+
