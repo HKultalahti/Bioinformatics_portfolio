@@ -16,14 +16,19 @@ I’m a Master of Science in Genetics and Molecular Biology (University of Oulu)
 - *Gene and ORF annotation*
   → open reading frame prediction (NCBI ORF Finder), BLAST-based homology annotation
 
+- *Statistical analysis*
+  → linear regression, ANOVA, Kruskal-Wallis test, Shapiro-Wilk normality testing, homoscedasticity testing
+  
 - *Data analysis and visualization*
-  → summary statistics, distribution analysis, and plots using Rstudio and ggplot2
+  → summary statistics, distribution analysis, and various visualizations including Q–Q plots, boxplots, scatter plots, and *currently creating a folder for a Manhattan plot* using Rstudio and ggplot2
 
 - *Command-line tools & scripting*
   → efficient use of bioinformatics tools in Unix environment
 
 - *Scientific reporting and interpretation*
   → integrating biological insight with computational results in a thesis context
+
+
 
 ## 📁 Featured projects
 
