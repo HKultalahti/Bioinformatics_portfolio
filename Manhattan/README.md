@@ -1,15 +1,30 @@
-# Manhattan plots by Henna Kultalahti made by instructions from [alfonsosaera](https://github.com/alfonsosaera/myManhattan/blob/master/README.md)
+# Manhattan plots
+by Henna Kultalahti made by instructions from [alfonsosaera](https://github.com/alfonsosaera/myManhattan/blob/master/README.md)
 
 ## What is a Manhattan plot?
-Manhattan plot is a scatter plot that shows (in the big picture) how SNPs 
+Manhattan plot is a scatter plot that shows *visually* how single nucleotide polymorphs aka SNPs
+and *biologically*
 
-## p -value and hypothesis in GWAS
-It is crucial to understand, what the p -value means. In this case, *a lower p -value suggests a 
+## P -value and hypothesis in GWAS
+It is crucial to understand, what is the question behind the p -value and what does the actual number mean. 
+So the question when calculating p -value could be put into simple words as follows: 
+_________
+*"How likely is it that as strong or even stronger association between the SNP and the phenotype could arise just by chance, if the SNP actually has no real effect?"*
+________
 
-So the question when calculating p -value could be put into words like this 
-*"What are the chances, we can find as significant or more significant connection between a SNP and a phenotype 
+The p -value is tied to the hypotheses.
 
 H0 (null hypothesis) = SNP has no connection to phenotype
 H1 (alternative hypothesis) =  SNP has a connection to phenotype
 
-Once again back to understanding the p -value. So if the SNP has no meaning as far as the phenotype is concerned, the chances of getting as significant or more significant 
+In other words:
+*p -value = the probability of observing this statistical difference (or a more extreme one), if the null hypothesis is true*
+And to put the p -value and the null hypothesis into even more plainly: 
+*p -value shows how well our finding fits with null hypothesis (= there is no connection)*
+
+So,
+**a lower p -value suggests a statistically significant connection between a SNP and a phenotype** while a higher p -value suggests that the connection between a SNP and a phenotype is not statistically significant.
+
+All is clear and we understand the p -value, right? Let's stop yapping and get into creating a plot!
+
+**coming on 18th of June**
