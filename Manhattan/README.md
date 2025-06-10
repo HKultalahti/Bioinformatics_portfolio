@@ -2,8 +2,7 @@
 by Henna Kultalahti made by instructions from [alfonsosaera](https://github.com/alfonsosaera/myManhattan/blob/master/README.md)
 
 ## What is a Manhattan plot?
-Manhattan plot is a scatter plot that shows *visually* how single nucleotide polymorphs aka SNPs
-and *biologically*
+Manhattan plot is a scatter plot that shows *visually* chromosomes on X axis and dots that represent SNPs that have a p -value (on the Y axis in negative log10). *Biologically* Manhattan plot shines the light on the connection between SNPs and a phenotype.
 
 ## P -value and hypothesis in GWAS
 It is crucial to understand, what is the question behind the p -value and what does the actual number mean. 
