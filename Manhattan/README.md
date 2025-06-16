@@ -28,4 +28,21 @@ So,
 
 All is clear and we understand the p -value, right? Let's stop yapping and get into creating a plot!
 
+
+## Let's build a skyscraper beam by beam
+
+aka this is how to do it-
+
+The script is from Alfonso's repository.
+The data is from Alfonso's repository.
+
+Let's decide to name our data hennasmanhattan
+
+\\\ git clone https://github.com/alfonsosaera/myManhattan.git \\\
+
+
+
+
+
+
 **more coming on 18th of June**
