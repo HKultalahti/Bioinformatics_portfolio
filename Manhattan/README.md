@@ -1,19 +1,19 @@
-# 🏙️ Manhattan plots
+# 🏙️ Manhattan plots 🏙️
 by Henna Kultalahti made by instructions from [alfonsosaera](https://github.com/alfonsosaera/myManhattan/blob/master/README.md)
 In this file I aim to explain the idea of a Manhattan plot very clearly and demostrate a way of doing it
 
-## What is a Manhattan plot?
+## ❔ What is a Manhattan plot? ❔
 Manhattan plot is a scatter plot that shows *visually* chromosomes on X axis and dots on the Y axis. These dots represent SNPs that have a p -value (in negative log10). 
 *Biologically* Manhattan plot shines light on the connection between SNPs and a phenotype. Meaning is it an important tool in analysing if a SNP has a connection with a disease.
 
-## P -value and hypothesis in GWAS
+## 🅿️ P -value and hypothesis and what in means for GWAS
 It is crucial to understand, what is the question behind the p -value and what does the actual number mean. 
 So the question when calculating p -value could be put into simple words as follows: 
 _________
 *"How likely is it that as strong or even stronger association between the SNP and the phenotype could arise just by chance, if the SNP actually has no real effect?"*
 ________
 
-The p -value is tied to the hypotheses.
+The p -value is tied to the hypotheses like so:
 
 H0 (null hypothesis) = SNP has no connection to phenotype
 H1 (alternative hypothesis) =  SNP has a connection to phenotype
