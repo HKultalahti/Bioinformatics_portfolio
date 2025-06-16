@@ -1,4 +1,4 @@
-🏙️# Manhattan plots
+# 🏙️ Manhattan plots
 by Henna Kultalahti made by instructions from [alfonsosaera](https://github.com/alfonsosaera/myManhattan/blob/master/README.md)
 In this file I aim to explain the idea of a Manhattan plot very clearly and demostrate a way of doing it
 
