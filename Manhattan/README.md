@@ -48,6 +48,4 @@ head(hmanhattan)
 
 
 
-
-
 **more coming on 18th of June**
