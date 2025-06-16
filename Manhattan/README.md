@@ -2,7 +2,7 @@
 by Henna Kultalahti made by instructions from [alfonsosaera](https://github.com/alfonsosaera/myManhattan/blob/master/README.md)
 In this file I aim to explain the idea of a Manhattan plot very clearly and demostrate a way of doing it
 
-## ❔ What is a Manhattan plot? ❔
+## ❔ What is a Manhattan plot? 
 Manhattan plot is a scatter plot that shows *visually* chromosomes on X axis and dots on the Y axis. These dots represent SNPs that have a p -value (in negative log10). 
 *Biologically* Manhattan plot shines light on the connection between SNPs and a phenotype. Meaning is it an important tool in analysing if a SNP has a connection with a disease.
 
@@ -28,4 +28,4 @@ So,
 
 All is clear and we understand the p -value, right? Let's stop yapping and get into creating a plot!
 
-**coming on 18th of June**
+**more coming on 18th of June**
