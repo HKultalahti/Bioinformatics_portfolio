@@ -36,10 +36,12 @@ aka this is how to do it-
 The script is from Alfonso's repository.
 The data is from Alfonso's repository.
 
-Let's decide to name our data hennasmanhattan
+Let's get our material
+``` git clone https://github.com/alfonsosaera/myManhattan.git ``
 
-\\\ git clone https://github.com/alfonsosaera/myManhattan.git \\\
-
+Let's decide to name our data hmanhattan inspired by Henna's Manhattan and look at it
+``` hmanhattan <- read.table("example.txt")
+head(hmanhattan) ```
 
 
 
