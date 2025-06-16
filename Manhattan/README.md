@@ -38,13 +38,13 @@ The data is from Alfonso's repository.
 
 Let's get our material
 
-``` git clone https://github.com/alfonsosaera/myManhattan.git ``
+``` git clone https://github.com/alfonsosaera/myManhattan.git ```
 
 Let's decide to name our data hmanhattan inspired by Henna's Manhattan and look at it
 
 
-``` hmanhattan <- read.table("example.txt")
-head(hmanhattan) ```
+``` hmanhattan <- read.table("example.txt") ```
+head(hmanhattan)
 
 
 
