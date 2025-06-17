@@ -14,9 +14,9 @@ _________
 ________
 
 The p -value is tied to the hypotheses like so:
-
-H0 (null hypothesis) = SNP has no connection to phenotype
-H1 (alternative hypothesis) =  SNP has a connection to phenotype
+|--------|-------------|
+|H0 (null hypothesis)| SNP has no connection to phenotype|
+|H1 (alternative hypothesis) | SNP has a connection to phenotype |
 
 In other words:
 *p -value = the probability of observing this statistical difference (or a more extreme one), if the null hypothesis is true*
