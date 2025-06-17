@@ -29,9 +29,9 @@ So,
 All is clear and we understand the p -value, right? Let's stop yapping and get into creating a plot!
 
 
-## Let's build a skyscraper beam by beam
+## 🏗️ Let's build a skyscraper beam by beam
 
-aka this is how to do it-
+aka this is how to do it!
 
 The script is from Alfonso's repository.
 The data is from Alfonso's repository.
@@ -43,8 +43,9 @@ Let's get our material
 Let's decide to name our data hmanhattan inspired by Henna's Manhattan and look at it
 
 
-``` hmanhattan <- read.table("example.txt") ```
+``` hmanhattan <- read.table("example.txt")
 head(hmanhattan)
+```
 
 
 
