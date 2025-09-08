@@ -1,7 +1,7 @@
-# Fictional Data for Portfolio
+# :memo: Fictional Data for Portfolio
 
 ___
-DISCLAIMER: This folder contains fictional data created for demonstrating my data analysis skills.
+:grey_exclamation:DISCLAIMER::grey_exclamation: This folder contains fictional data created for demonstrating my data analysis skills.
 The datasets are fully synthetic and do not contain any real patient information.
 ___
 
