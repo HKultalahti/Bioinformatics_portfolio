@@ -32,10 +32,9 @@ I’m a Master of Science in Genetics and Molecular Biology (University of Oulu)
 ## :open_file_folder: Featured datasets 
 | Dataset | Description | Usage |
 |--------|-------------|------------|
-| Virus discovery from RNAseq host data (link coming soon) | Using Lazypipe to discover known and novel RNA viruses from ant RNAseq data | Lazypipe, CAP3, NCBI ORF Finder, BLAST, Rstudio |
-
-
-
+| HennaKultalahti_fictionaldata_patients.csv | demographic and clinical information (age, sex, comorbidities, virus status, treatment, and outcome) | SQL and more to come |
+| HennaKultalahti_fictionaldata_labs.csv | laboratory measurements over multiple visits (PCR Ct, CRP, WBC) | SQL and more to come |
+| HennaKultalahti_fictionaldata_genetics.csv | simplified genetic data (SNPs, polygenic risk score, and gene expression features) | SQL and more to come |
 
 
 ## 📁 Featured projects
