@@ -38,6 +38,7 @@ I’m a Master of Science in Genetics and Molecular Biology (University of Oulu)
 | Linear regression (coming soon) | Conduction linear regression analysis for ant data (more details coming soon) | Rstudio |
 | Kruskal-Wallis (coming soon) | Conduction Kruskal-Wallis analysis for ant data (more details coming soon) | Rstudio |
 | Manhattan (more coming soon) | Creaing Mantattan plots from an example script and fixing it to fit my purposes | Rstudio |
+| SQL (updating as we speak) | Executing SQL to fictional patient data in order to fetch important information | 
 | Unix for beginners: commands and tips (coming soon) | A guide for beginner unix (Puhti supercomputer) users made by me and Elisa Karonen |
 
 
