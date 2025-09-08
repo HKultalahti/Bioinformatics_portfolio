@@ -5,13 +5,13 @@ ___
 The datasets are fully synthetic and do not contain any real patient information.
 ___
 
-- **portfolio_patients.csv**
+- **HennaKultalahti_fictionaldata_patients.csv**
       demographic and clinical information (age, sex, comorbidities, virus status, treatment, and outcome).
 
-- **portfolio_labs.csv**
+- **HennaKultalahti_fictionaldata_labs.csv**
       laboratory measurements over multiple visits (PCR Ct, CRP, WBC).
 
-- **portfolio_genetics.csv**
+- **HennaKultalahti_fictionaldata_genetics.csv**
       simplified genetic data (SNPs, polygenic risk score, and gene expression features).
 
 These datasets can be used for:
