@@ -29,6 +29,14 @@ I’m a Master of Science in Genetics and Molecular Biology (University of Oulu)
   → integrating biological insight with computational results in a thesis context
 
 
+## :open_file_folder: Featured datasets 
+| Dataset | Description | Usage |
+|--------|-------------|------------|
+| Virus discovery from RNAseq host data (link coming soon) | Using Lazypipe to discover known and novel RNA viruses from ant RNAseq data | Lazypipe, CAP3, NCBI ORF Finder, BLAST, Rstudio |
+
+
+
+
 
 ## 📁 Featured projects
 
