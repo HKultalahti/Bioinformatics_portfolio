@@ -29,7 +29,13 @@ I’m a Master of Science in Genetics and Molecular Biology (University of Oulu)
   → integrating biological insight with computational results in a thesis context
 
 
-## :open_file_folder: Featured datasets 
+## :open_file_folder: Featured datasets
+
+___
+:grey_exclamation: DISCLAIMER :grey_exclamation: All the datasets are **fictional** and created only for demonstrating my data analysis skills.
+The datasets are fully synthetic and do not contain any real patient information.
+___
+
 | Dataset | Description | Usage |
 |--------|-------------|------------|
 | HennaKultalahti_fictionaldata_patients.csv | demographic and clinical information (age, sex, comorbidities, virus status, treatment, and outcome) | SQL and more to come |
