@@ -1,4 +1,4 @@
-# Bioinformatics_portfolio
+# Bioinformatics (and lab raports coming soon) portfolio
 Welcome to my bioinformatics portfolio! 
 
 I’m a Master of Science in Genetics and Molecular Biology (University of Oulu), specialized in bioinformatics and virology. This repository contais pieces of my bioinformatic master's thesis "Muurahaisten RNA-viruskirjon kartoittaminen" (Mapping of the ant RNA virome) that demonstrate my skills in data analysis, scripting, and biological interpretation. My thesis is not publically available but can be read by request.
