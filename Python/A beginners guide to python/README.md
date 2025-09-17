@@ -9,7 +9,7 @@ So here is my basic guide to Python.
 # Commands
 
 | Command  | What it does | Important |
-| ------------- | ------------- |
+| ------------- | ------------- |-------|
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
