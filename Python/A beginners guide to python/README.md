@@ -10,7 +10,7 @@ So here is my basic guide to Python.
 
 | Command  | What it does | Important |
 | ------------- | ------------- |-------|
-| print  | prints the wanted text  | print("text") vs print (2+2)|
-| Content Cell  | Content Cell  |
+| print(" ")  | prints the wanted text  | print("text") vs print (2+2) and spaces in text|
+| input(" ")  | gets info from user  |
 
 
