@@ -5,8 +5,19 @@
 
 So here is my basic guide to Python.
 
+## Different type of lines 
 
-# Commands
+### str
+Str means text 
+It need to be inside " " or ' '
+When used with print command it looks like this
+
+text = "I like cats"
+print(text)       # this prints the text we assigned above
+print("I like cats") # you can also do it like this
+
+
+## Commands
 
 | Command  | What it does | Important |
 | ------------- | ------------- |-------|
