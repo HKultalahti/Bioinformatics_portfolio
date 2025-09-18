@@ -27,7 +27,7 @@ print(integer)  # 5
 print(decimal)  # 3.14
 ````
 
-### Mixing text and numbers with f and other ways
+### Mixing text and numbers with f, comma (,) and other ways
 
 You can either do this 
 ````
@@ -40,7 +40,16 @@ age = 12
 print(f"Hello {name}, you are {age} years old.")
 # Output: Hello Karri-kissa, you are 12 years old.
 ````
+or use the comma ,
+notice that this adds a space in between
+````
+name = "Karri"
+age = 12
 
+print("Name:", name, "Age:", age)
+
+#Output Name: Karri Age: 12 
+````
 
 
 
