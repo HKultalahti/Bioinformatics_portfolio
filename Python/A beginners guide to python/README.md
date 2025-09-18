@@ -51,6 +51,27 @@ print("Name:", name, "Age:", age)
 #Output Name: Karri Age: 12 
 ````
 
+Example of two different ways:
+When
+````
+x = 27
+y = 15
+````
+What we want output to look like 
+````
+27 / 15 = 1.8
+````
+
+option one
+````
+print(f"{x} / {y} = {x / y}")
+````
+option two 
+````
+print(x, "/", y, "=", (x / y))
+````
+
+
 
 
 ## Commands
