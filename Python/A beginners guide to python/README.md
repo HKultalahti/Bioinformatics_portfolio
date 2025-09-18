@@ -27,7 +27,21 @@ print(integer)  # 5
 print(decimal)  # 3.14
 ````
 
-When printing both text and numbers, you need to do have some tricks up your slveeve
+### Mixing text and numbers with f and other ways
+
+You can either do this 
+````
+print("The number is " + str(5))   # The number is 5
+````
+or this 
+````
+name = "Karri-kissa"
+age = 12
+print(f"Hello {name}, you are {age} years old.")
+# Output: Hello Karri-kissa, you are 12 years old.
+````
+
+
 
 
 ## Commands
