@@ -71,6 +71,10 @@ option two
 print(x, "/", y, "=", (x / y))
 ````
 
+## 1️⃣2️⃣3️⃣ About them numbers 
+
+Some important info about working with numbers:
+
 
 
 
