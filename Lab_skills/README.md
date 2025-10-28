@@ -29,3 +29,7 @@
 - Adherence to protocols and creative process improvement
 
 
+## Manual for Western blot
+
+Manual coming soon
+
