@@ -1,4 +1,4 @@
-# High-performance computing (HPC) skills
+# 🖥️ High-performance computing (HPC) skills
 
 ## SLURM & bash scripting
 
@@ -22,7 +22,7 @@ This involved running automated workflows that performed quality control, de nov
 This folder contains example scripts demonstrating batch jobs and analyses I have performed on the Puhti supercomputer. I share these only for demonstration purposes.
 
 
-# More about Lazypipe:
+# 📎 More about Lazypipe:
 Ilya Plyusnin, Ravi Kant, Anne J Jääskeläinen, Tarja Sironen, Liisa Holm, Olli Vapalahti, Teemu Smura, Novel NGS pipeline for virus discovery from a wide spectrum of hosts and sample types, Virus Evolution, Volume 6, Issue 2, July 2020, veaa091, https://doi.org/10.1093/ve/veaa091
 
 
