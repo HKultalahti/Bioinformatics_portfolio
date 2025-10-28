@@ -15,7 +15,11 @@ This involved running automated workflows that performed quality control, de nov
 
 - Managing job dependencies and computational resources
 
-- Monitoring and troubleshooting jobs in large-scale analyses
+- Monitoring and troubleshooting jobs in large-scale analyses¨
+
+# Puhti HPC example scripts
+
+This folder contains example scripts demonstrating batch jobs and analyses I have performed on the Puhti supercomputer. I share these only for demonstration purposes.
 
 
 # More about Lazypipe:
