@@ -25,6 +25,6 @@ OUTPUT_DIR="/scratch/project_2004676/results/GAGA-0366"
 mkdir -p $OUTPUT_DIR
 
 # Running Lazypipe
-echo "Starting Lazypipe analysis for GAGA-0366..."
+echo "Starting Lazypipe analysis for ant sample GAGA-0366 at $(date)"
 sbatch-lazypipe -1 $READ1 -2 $READ2 -S lneg -p main --hostgen $HOSTGENOME -o $OUTPUT_DIR
 echo "Lazypipe job completed."
