@@ -19,7 +19,7 @@ This involved running automated workflows that performed quality control, de nov
 
 ## 📁 Puhti HPC example scripts
 
-This folder contains example scripts demonstrating batch jobs and analyses I have performed on the Puhti supercomputer. I share these only for demonstration purposes.
+This folder contains example scripts demonstrating batch jobs and analyses I have performed on the Puhti supercomputer. I share these only for demonstration purposes to showcase my skills for future employers. If you are looking for help with your scripts, these shared scripts probably won't be helpful to you.
 
 
 ## 🔗 More about Lazypipe:
