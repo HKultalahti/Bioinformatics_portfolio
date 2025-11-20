@@ -4,7 +4,7 @@
 ## 🍒 R scripts for statistical analyses you can find in folders 
 
 
-[Kruskal-Walllis](Kruskal-Wallis)
+[Kruskal-Walllis](./Kruskal-Wallis)
 Kruskal-Wallis & Linear_regression
 
 Here I demonstrate my skills with R and share scripts for visualizations and statistical analyses.
