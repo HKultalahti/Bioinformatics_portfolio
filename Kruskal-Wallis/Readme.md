@@ -1,14 +1,10 @@
-# Kruskal-Wallis
+# 📊 ANOVA & Kruskal-Wallis
 
-Welcome! Here I explain what Kruskal-Wallis statistical is, what it is used for and give an example of how to do it with my own scritps from my master's thesis. 
-
-**As my thesis is not publically available** I am going to have to make a disclaimer here.
+Here I demonstrate my skills with statistical analysis methods ANOVA and Kruskal-Wallis. This example (including R scripts) is for demonstration purposes only. The theme and variables are from my master's thesis "Muurahaisten RNA-viruskirjon kartoitus" (Mapping of the ant RNA virome).
 
 ____
-**DISCLAIMER:** The data used in this example is not real or scientifically accurate. The numerical values in the data are completely randomized to protect the actual results and conclusions of my thesis. To conclude, these results are based on fictional data and hence the results and conclusions presented here are fictional and should not be considered as scientifically accurate.
+❕**DISCLAIMER:** As my thesis and its results is not publically available, I have randomized my data. The numerical variables in the data are completely randomized to protect the actual results and conclusions of my thesis. To conclude, these results are based on fictional data and hence the results and conclusions presented here should not be considered cientifically accurate.❕ 
 ____
-
-## What is Kruskal-Wallis?
 
 
 ## Kruskal-Wallis vs ANOVA
