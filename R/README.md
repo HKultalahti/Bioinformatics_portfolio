@@ -17,7 +17,8 @@ Script in this folder: **portfolio_boxplot**
 Boxplot is good when wanting to visualize categorical variables and numerical variables. Here I present to you a boxplot showing 3 different sized colonies and the amount of different virus species found in them.
 
 ### How to analyse the boxplot?
-coming
+coming soon
+
 
 ## 🐜 Example 2: Scatterplot
 
