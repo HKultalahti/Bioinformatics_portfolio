@@ -26,7 +26,8 @@ coming
 
 Script in this folder: **portfolio_scatterplot**
 
-Scatterplot is good in this case since it shows the distribution visually of how many viruses have been found and how much it varies between ant species.
+Scatterplot is good in this case since it shows the distribution visually of how many viruses have been found and how much it varies between ant species. The blue regression line help the viwer to see if the trend is ascending or descending.
 
 ### How to analyse the scatterplot?
 
+coming soon
