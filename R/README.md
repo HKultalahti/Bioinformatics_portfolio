@@ -12,10 +12,15 @@ Here I demonstrate my skills with R and share scripts for visualizations.
 
 ![portfolio_boxplot](https://github.com/user-attachments/assets/c8eb97fc-92d8-4f87-8e0d-38167c7f8cfa)
 
-Script in this folder: portfolio_boxplot
-Script [here](portfolio_boxplot)
+Script in this folder: **portfolio_boxplot**
 
-Boxplot is good when wanting to visualize categorical variables and numerical variables. Here I present to you a boxplot showing 3 different sized colonies and the amount of different virus species found in them. 
+Boxplot is good when wanting to visualize categorical variables and numerical variables. Here I present to you a boxplot showing 3 different sized colonies and the amount of different virus species found in them.
+
+### How to analyse the boxplot?
+coming
 
 ## 🐜 Example 2: Scatterplot
+
+![portfolio_scatterplot](https://github.com/user-attachments/assets/93b8c8bf-3261-47e7-bcf2-55d03e0940f9)
+
 
