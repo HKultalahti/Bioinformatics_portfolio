@@ -21,6 +21,12 @@ coming
 
 ## 🐜 Example 2: Scatterplot
 
+
 ![portfolio_scatterplot](https://github.com/user-attachments/assets/93b8c8bf-3261-47e7-bcf2-55d03e0940f9)
 
+Script in this folder: **portfolio_scatterplot**
+
+Scatterplot is good in this case since it shows the distribution visually of how many viruses have been found and how much it varies between ant species.
+
+### How to analyse the scatterplot?
 
