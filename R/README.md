@@ -1,11 +1,8 @@
 # ®️ R skills & scripts for visualization
 
 
-## 🍒 R scripts for statistical analyses you can find in folders 
+## 🍒 R scripts for statistical analyses you can find in folders [Kruskal-Walllis](../Kruskal-Wallis/) & [Linear_regression](../Linear_regression/
 
-
-[Kruskal-Walllis](../Kruskal-Wallis/)
-Kruskal-Wallis & Linear_regression
 
 Here I demonstrate my skills with R and share scripts for visualizations and statistical analyses.
 
