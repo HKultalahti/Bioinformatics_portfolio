@@ -6,11 +6,7 @@ ____
 ❕**DISCLAIMER:** As my thesis and its results is not publically available, I have randomized my data. The numerical variables in the data are completely randomized to protect the actual results and conclusions of my thesis. To conclude, these results are based on fictional data and hence the results and conclusions presented here should not be considered cientifically accurate.❕ 
 ____
 
-
-## Why perform ANOVA or Kruskal-Wallis
-
-
-## Example
+## 💬 Example
 
 In my example here, we have a data consisting of:
 - ant species, we know the size of the colony (small, medium or large) they were collected from
@@ -19,3 +15,4 @@ In my example here, we have a data consisting of:
 **Research question = Is there a correlation between colony size and number of virus species found?**
 **Hypothesis = The bigger the colony, the more viruses are found**
 
+I came to this hypothesis based on the thought experiment that bigger colony means larger amount of individuals that are scavenging the environment outside the colony. This could lead to more exposure to pathogens and lead to more virues found in the colony.
