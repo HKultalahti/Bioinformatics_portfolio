@@ -13,6 +13,8 @@ In my example here, we have a data consisting of:
 - how many virus species we have found in each ant species trough lazypipe analysis
 
 **Research question = Is there a correlation between colony size and number of virus species found?**
-**Hypothesis = The bigger the colony, the more viruses are found**
 
+**Hypothesis = The bigger the colony, the more viruses are found**
 I came to this hypothesis based on the thought experiment that bigger colony means larger amount of individuals that are scavenging the environment outside the colony. This could lead to more exposure to pathogens and lead to more virues found in the colony.
+
+To decide whether to perform ANVOA or Kruskal-Wallis must we determine whether the data is normally distributed. This has to be done to every categorial variable (small, medium and large colony size).
