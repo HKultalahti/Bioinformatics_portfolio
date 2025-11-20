@@ -7,4 +7,15 @@ ____
 ____
 
 
-## Kruskal-Wallis vs ANOVA
+## Why perform ANOVA or Kruskal-Wallis
+
+
+## Example
+
+In my example here, we have a data consisting of:
+- ant species, we know the size of the colony (small, medium or large) they were collected from
+- how many virus species we have found in each ant species trough lazypipe analysis
+
+**Research question = Is there a correlation between colony size and number of virus species found?**
+**Hypothesis = The bigger the colony, the more viruses are found**
+
