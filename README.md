@@ -1,9 +1,11 @@
-# Bioinformatics (and lab raports coming soon) portfolio
-Welcome to my bioinformatics portfolio! 
+# Bioinformatics & lab skills portfolio
+Welcome to my portfolio! 
 
-I’m a Master of Science in Genetics and Molecular Biology (University of Oulu), specialized in bioinformatics and virology. This repository contais pieces of my bioinformatic master's thesis "Muurahaisten RNA-viruskirjon kartoittaminen" (Mapping of the ant RNA virome) that demonstrate my skills in data analysis, scripting, and biological interpretation. My thesis is not publically available but can be read by request.
+I’m a **Master of Science in Genetics and Molecular Biology** (University of Oulu), specialized in **bioinformatics and virology**. This repository contais pieces of my bioinformatic master's thesis "Muurahaisten RNA-viruskirjon kartoittaminen" (Mapping of the ant RNA virome) that demonstrate my skills in **data analysis, scripting, and biological interpretation**. Additionally you can find my own visualisations, scripts (shell & R), lab manuals (coming soon) and essays (coming soon) all written by me.
 
-## 🔬 Areas of expertise
+Please notice, that my thesis is not publically available but can be read by request.
+
+## 🔬 Areas of expertise in bioinformatics
 - *De novo transcriptome analysis from RNA-seq data*
   → pipeline development using Lazypipe, including QC, assembly, and annotation
 
@@ -20,7 +22,7 @@ I’m a Master of Science in Genetics and Molecular Biology (University of Oulu)
   → linear regression, ANOVA, Kruskal-Wallis test, Shapiro-Wilk normality testing, homoscedasticity testing
   
 - *Data analysis and visualization*
-  → summary statistics, distribution analysis, and various visualizations including Q–Q plots, boxplots, scatter plots, and **currently creating a folder for a Manhattan plot** using Rstudio and ggplot2
+  → summary statistics, distribution analysis, and various visualizations including Q–Q plots, boxplots, scatter plots using Rstudio and ggplot2
 
 - *Command-line tools & scripting*
   → efficient use of bioinformatics tools in Unix environment
@@ -47,6 +49,7 @@ ___
 
 | Project | Description | Tools Used |
 |--------|-------------|------------|
+| High-performance computing | 
 | Virus discovery from RNAseq host data (link coming soon) | Using Lazypipe to discover known and novel RNA viruses from ant RNAseq data | Lazypipe, CAP3, NCBI ORF Finder, BLAST, Rstudio |
 | Linear regression (coming soon) | Conduction linear regression analysis for ant data (more details coming soon) | Rstudio |
 | Kruskal-Wallis (coming soon) | Conduction Kruskal-Wallis analysis for ant data (more details coming soon) | Rstudio |
