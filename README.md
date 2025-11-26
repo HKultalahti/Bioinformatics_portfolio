@@ -47,15 +47,16 @@ ___
 
 ## 📁 Featured projects
 
-| Project | Description | Tools Used |
+| Project | Description | Tools Used / Scripts shared |
 |--------|-------------|------------|
-| High-performance computing | 
-| Virus discovery from RNAseq host data (link coming soon) | Using Lazypipe to discover known and novel RNA viruses from ant RNAseq data | Lazypipe, CAP3, NCBI ORF Finder, BLAST, Rstudio |
-| Linear regression (coming soon) | Conduction linear regression analysis for ant data (more details coming soon) | Rstudio |
-| Kruskal-Wallis (coming soon) | Conduction Kruskal-Wallis analysis for ant data (more details coming soon) | Rstudio |
-| Manhattan (more coming soon) | Creaing Mantattan plots from an example script and fixing it to fit my purposes | Rstudio |
-| SQL (updating as we speak) | Executing SQL to fictional patient data in order to fetch important information | 
-| Unix for beginners: commands and tips (coming soon) | A guide for beginner unix (Puhti supercomputer) users made by me and Elisa Karonen |
+| High-performance computing | Demostrating skills with HPC related to virus discovery in RNA-seq data | Lazypipe / Shell scripts |
+| Kruskal-Wallis | Conduction Kruskal-Wallis analysis to determine correlation between ant colony size and viruses found in sample | Rstudio / R scripts|
+| Lab skills | Describing lab skills and demonstrating understand in methologies | Various lab methods / Western blot manual shared |
+| Linear regression | Conduction linear regression analysis to determine correlation between number of individuals in sample and amount of found viruses | Rstudio / R scripts |
+| Manhattan (more coming soon) | Manhattan plots coming soon | Coming soon |
+| Python | Demonstratig my skills with Python on my fictional data (comign soon) | Python for beginners & Python scripts shared |
+| R | Demonstrating skills for creating visualizations with R | R-studio / R scripts shared |
+| SQL | Executing SQL to fictional patient data in order to fetch important information (coming soon) | Coming soon | 
 
 
 ## 🧠 About me
