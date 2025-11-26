@@ -10,7 +10,7 @@ Here I demonstrate my skills with R and share scripts for visualizations.
 
 ## 🐜 Example 1: Boxplot 
 
-![portfolio_boxplot](https://github.com/user-attachments/assets/c8eb97fc-92d8-4f87-8e0d-38167c7f8cfa)
+pic HERE
 
 Script in this folder: **portfolio_boxplot**
 
@@ -23,7 +23,7 @@ coming soon
 ## 🐜 Example 2: Scatterplot
 
 
-![portfolio_scatterplot](https://github.com/user-attachments/assets/93b8c8bf-3261-47e7-bcf2-55d03e0940f9)
+PIC HERE
 
 Script in this folder: **portfolio_scatterplot**
 
