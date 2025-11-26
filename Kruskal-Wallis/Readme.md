@@ -51,20 +51,30 @@ As in this example we have categorical variables (small, medium and large) we ha
 Shapiro-Wilk test results:\
 W = 0.93893, p-value = 0.5412\
 
+![portfolio_shapiro_hist_small](https://github.com/user-attachments/assets/7cd3e42d-f874-4345-af93-4137457e4e83)
+
+
 **Conclusion:** Since the W-value is close to 1 and we can not abandon null-hypothesis, we can conclude that the the amount of viruses in the small -category **is normally distributed** 
 -> Suggesting we use ANOVA
 
 #### Medium colony
 
 Shapiro-Wilk test results:\
-W = 0.88768, p-value = 0.09068
+W = 0.88768, p-value = 0.09068\
+
+![portfolio_shapiro_hist_medium](https://github.com/user-attachments/assets/10240ac1-82b2-4bac-a356-4c9d262b0e00)
+
+
 **Conclusion:** w-value suggest quite close to normal distribution and we can't abandon null-hypothesis, this suggests that data **is normally distributed** although not very nicely, there might be serious skewness
 
 
 #### Large colony
 
 Shapiro-Wilk test results:\
-W = 0.92905, p-value = 0.02621
+W = 0.92905, p-value = 0.02621\
+
+![portfolio_shapiro_hist_large](https://github.com/user-attachments/assets/36cac2ce-24d8-4179-9327-4c68f9e9e88d)
+
 
 **Conclusion:** w-value suggests close to normal distribution but because of low e-value, we have to abandon null hypothesis meaning data **is not normally distributed**
 
