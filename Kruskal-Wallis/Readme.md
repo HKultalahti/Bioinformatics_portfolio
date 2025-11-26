@@ -12,12 +12,9 @@ In my example here, we have a data consisting of:
 - ant species, we know the size of the colony (small, medium or large) they were collected from
 - how many virus species we have found in each ant species trough lazypipe analysis
 
-
-
-The visualization can tell us something. As the median line in all different colony sizes seems to be almost the same, this would suggest that the colony size has little effect on the amount of found viruses. But as the boxes have different sizes and the whiskers look different, that would suggest that the distribution within colony sizes differ and hence the colony size does matter. As a picture does not give a simple answer, let's do a statistical analysis via Kruskal-Wallis or ANOVA. 
-
 ![portfolio_boxplot_final](https://github.com/user-attachments/assets/bab888c0-17b0-4c08-8ca2-5e310154d71b)
 
+The visualization can tell us something. As the median line in all different colony sizes seems to be almost the same, this would suggest that the colony size has little effect on the amount of found viruses. But as the boxes have different sizes and the whiskers look different, that would suggest that the distribution within colony sizes differ and hence the colony size does matter. As a picture does not give a simple answer, let's do a statistical analysis via Kruskal-Wallis or ANOVA. 
 
 >[!IMPORTANT]
 > **Research question = Is there a correlation between colony size and number of virus species found?**\
