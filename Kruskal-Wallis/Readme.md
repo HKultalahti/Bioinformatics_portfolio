@@ -34,6 +34,8 @@ To figure out the method to use, must we first
 
 ### Checking distribution with Shapiro-Wilk
 
+🖇️ R scripts for this stage found in this folder
+
 > [!IMPORTANT]
 > H₀ = data is normally distributed\
 > H₁ = data is not normally distibuted
@@ -52,6 +54,7 @@ Shapiro-Wilk test results:\
 W = 0.93893, p-value = 0.5412\
 
 ![portfolio_shapiro_hist_small](https://github.com/user-attachments/assets/7cd3e42d-f874-4345-af93-4137457e4e83)
+![portfolio_shapiro_qq_small](https://github.com/user-attachments/assets/7268e60e-264c-459e-9962-01f56857fa4e)
 
 
 **Conclusion:** Since the W-value is close to 1 and we can not abandon null-hypothesis, we can conclude that the the amount of viruses in the small -category **is normally distributed** 
@@ -63,6 +66,7 @@ Shapiro-Wilk test results:\
 W = 0.88768, p-value = 0.09068\
 
 ![portfolio_shapiro_hist_medium](https://github.com/user-attachments/assets/10240ac1-82b2-4bac-a356-4c9d262b0e00)
+![portfolio_shapiro_qq_medium](https://github.com/user-attachments/assets/6f5c92ac-7280-4466-9a06-38d7de5386aa)
 
 
 **Conclusion:** w-value suggest quite close to normal distribution and we can't abandon null-hypothesis, this suggests that data **is normally distributed** although not very nicely, there might be serious skewness
@@ -74,9 +78,12 @@ Shapiro-Wilk test results:\
 W = 0.92905, p-value = 0.02621\
 
 ![portfolio_shapiro_hist_large](https://github.com/user-attachments/assets/36cac2ce-24d8-4179-9327-4c68f9e9e88d)
+![portfolio_shapiro_qq_large](https://github.com/user-attachments/assets/36775a69-ebc7-4bfe-938a-c39fd880fb94)
 
 
 **Conclusion:** w-value suggests close to normal distribution but because of low e-value, we have to abandon null hypothesis meaning data **is not normally distributed**
+
+
 
 
 
