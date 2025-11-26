@@ -23,6 +23,10 @@ This folder contains example scripts demonstrating batch jobs and analyses I hav
 
 **Scripts for further analysis for lazypipe results coming soon**
 
+## Unix for beginners manual by Henna Kultalahti & Elisa Karonen
+
+Coming soon
+
 
 ## 🔗 More about Lazypipe:
 Ilya Plyusnin, Ravi Kant, Anne J Jääskeläinen, Tarja Sironen, Liisa Holm, Olli Vapalahti, Teemu Smura, Novel NGS pipeline for virus discovery from a wide spectrum of hosts and sample types, Virus Evolution, Volume 6, Issue 2, July 2020, veaa091, https://doi.org/10.1093/ve/veaa091
