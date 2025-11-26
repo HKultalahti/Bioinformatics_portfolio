@@ -54,14 +54,14 @@ W = 0.93893, p-value = 0.5412\
 **Conclusion:** Since the W-value is close to 1 and we can not abandon null-hypothesis, we can conclude that the the amount of viruses in the small -category **is normally distributed** 
 -> Suggesting we use ANOVA
 
-### Medium colony
+#### Medium colony
 
 Shapiro-Wilk test results:\
 W = 0.88768, p-value = 0.09068
 **Conclusion:** w-value suggest quite close to normal distribution and we can't abandon null-hypothesis, this suggests that data **is normally distributed** although not very nicely, there might be serious skewness
 
 
-### Large colony
+#### Large colony
 
 Shapiro-Wilk test results:\
 W = 0.92905, p-value = 0.02621
