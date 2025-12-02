@@ -83,7 +83,35 @@ W = 0.92905, p-value = 0.02621\
 
 **Conclusion:** w-value suggests close to normal distribution but because of low e-value, we have to abandon null hypothesis meaning data **is not normally distributed**
 
+## Kruskal-Wallis
 
+Kruskal-Wallis is used to determine if the medians of 3 or more groups are statstically different from each other. The test does not require normal distribution.\
+Explaining the results:\
+**Chi squared χ²** : how much do the groups differ from each other, the bigger number, the bigger possibility that the differences are real\
+**Degrees of freedom df** : number of groups -1 (in this case df=2)\
+**p-value** : p<0.5 means there is a statistically significant difference between groups and p>0.5 no statistiaclly meaningful differences 
+
+
+As our categories (small, medium and large) are not all normally distributed, let's use Kruskal-Wallis to answer our original quetion, which was:\
+**Research question = Is there a correlation between colony size and number of virus species found?**\
+
+As reults we got:
+```
+Kruskal-Wallis rank sum test
+
+data:  virusmaara by koloniakoko
+Kruskal-Wallis chi-squared = 0.0016882, df = 2, p-value = 0.9992
+
+```
+Meaning:\
+
+**χ²** = is very close to 0, meaning no significant differences detected between groups\
+**p-value** is very close to 1 meaning the probability of differences between groups is very small
+
+## Conclusion
+
+The colony size categories in our data are not all normally distributed and hence we chose to move on with Kruskal-Wallis.\
+As Kruskal-Wallis results above show, the differences between the groups are not caused by colony size meaning that colony size has no effect on how many viruses are found.
 
 
 
