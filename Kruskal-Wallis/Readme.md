@@ -103,7 +103,7 @@ data:  virusmaara by koloniakoko
 Kruskal-Wallis chi-squared = 0.0016882, df = 2, p-value = 0.9992
 
 ```
-Meaning:\
+Meaning:
 
 **χ²** = is very close to 0, meaning no significant differences detected between groups\
 **p-value** is very close to 1 meaning the probability of differences between groups is very small
