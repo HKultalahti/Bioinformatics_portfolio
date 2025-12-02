@@ -1,6 +1,7 @@
 # 📂 File guide
 
-❕ Notice, that these shared scripts are for skill demonstration purposes only. The details and results should not be analysed as true science. ❕
+>[!NOTE]
+> Notice, that these shared scripts are for skill demonstration purposes only. The details and results should not be analysed as true science. ❕
 
 ## lazypipe_batch_job.slurm
 
