@@ -1,6 +1,6 @@
 # Welcome to view tools made by me, Henna Kultalahti
 
-## 🖥️ Lab automation tools
+## 🖥️ Lab automation tools (not finished, in progress)
 
 The first tool I'm independently developing (planning, writing scripts, testing) is a tool that can be used in Western Blot.
 Traditionally, what is loaded into wells for the running of WB is calculated for example as shown below.
