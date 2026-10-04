@@ -40,5 +40,17 @@ Is there genetic variation in the population?
 Quantitative genetics aims to determine how much of the observed variation in a trait is caused by such genetic differences.
 
 
+
+
+
 Now looking at our trees you see different phenotypes, some are taller, some are shorter. The question we want to ask here is 
 Is this because they belong to a certain family or because there is a lot of variation within family? 
+
+Also because our study data consists of just a satunnaisotos of tree families, we are not interedted in specific families, instead what we are askin is:
+How much do different families differ from each other? 
+
+Heritability comes from 
+H2 = VG / (VG + VE)
+= 0.58
+-> in this simulated data about 58 % of variance in tree height can be explained by differences between familes while about 42% can be explained by variance within the family.
+
