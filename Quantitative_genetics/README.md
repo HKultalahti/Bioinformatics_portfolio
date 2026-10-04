@@ -41,7 +41,11 @@ Quantitative genetics aims to determine how much of the observed variation in a 
 
 
 
+## Distribution of tree heights
 
+figures/treeheight_histogram.png
+
+Figure 1. Distribution of simulated tree heights.
 
 
 Now looking at our trees you see different phenotypes, some are taller, some are shorter. The question we want to ask here is 
