@@ -41,7 +41,7 @@ Quantitative genetics aims to determine how much of the observed variation in a 
 
 
 
-figures/treeheight_histogram.png
+
 
 
 Now looking at our trees you see different phenotypes, some are taller, some are shorter. The question we want to ask here is 
