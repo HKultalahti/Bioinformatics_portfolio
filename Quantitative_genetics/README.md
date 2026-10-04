@@ -46,12 +46,15 @@ Is this because they belong to a certain family or because there is a lot of var
 Also because our study data consists of just a satunnaisotos of tree families, we are not interedted in specific families, instead what we are askin is:
 How much do different families differ from each other? 
 
+
+![treefamily_height_boxplot](https://github.com/HKultalahti/Bioinformatics_portfolio/blob/main/Quantitative_genetics/figures/treefamily_height_boxplot.png)
+If all families had identical genetic growth potential, the median tree height would be similar across families. The observed differences in family medians suggest that genetic variation contributes to the observed variation in tree height.
+
+
 Heritability comes from 
 H2 = VG / (VG + VE)
 = 0.58
 -> in this simulated data about 58 % of variance in tree height can be explained by differences between familes while about 42% can be explained by variance within the family.
 
-
-![treefamily_height_boxplot](https://github.com/HKultalahti/Bioinformatics_portfolio/blob/main/Quantitative_genetics/figures/treefamily_height_boxplot.png)
-
+This demo will be updated later (visual and content vise) 
 
