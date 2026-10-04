@@ -1,4 +1,4 @@
-# Demonstrating my skills with SQL
+# Demonstrating my skills with SQL (not finished, in progress)
 
 ___
 **DISCLAIMER:** The "patient" data used in this example is fictional. I have shared 3 different fictional patient datasets in my portfolio in order to showcase my skills. The datasets are AI generated. 
