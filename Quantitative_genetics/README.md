@@ -43,7 +43,7 @@ Quantitative genetics aims to determine how much of the observed variation in a 
 
 ## Distribution of tree heights
 
-figures/treeheight_histogram.png
+![](figures/treeheight_histogram.png
 
 Figure 1. Distribution of simulated tree heights.
 
