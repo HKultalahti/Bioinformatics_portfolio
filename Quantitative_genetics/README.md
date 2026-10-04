@@ -6,7 +6,7 @@ This project demonstrates basic concepts of quantitative genetics using simulate
 
 ### Basics to understand before starting 
 
-P = phenotype, in this case tree height /n
+P = phenotype, in this case tree height n/
 G = genotype
   VG = genetic variance 
 E = environment 
